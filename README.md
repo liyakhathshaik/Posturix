@@ -1,4 +1,4 @@
-We are developing an AI-powered yoga application designed to help users improve their posture and alignment during practice. The app uses real-time pose detection and correction powered by computer vision and machine learning, making yoga more accessible, safe, and effective — especially for beginners.
+I am  developing an AI-powered yoga application designed to help users improve their posture and alignment during practice. The app uses real-time pose detection and correction powered by computer vision and machine learning, making yoga more accessible, safe, and effective — especially for beginners.
 
 Currently, the app supports 10 essential beginner-friendly yoga poses, offering instant feedback on form, alignment, and duration held in the correct posture. Each pose is monitored using AI-driven joint angle analysis to ensure accuracy and provide gentle corrections where needed.
 
